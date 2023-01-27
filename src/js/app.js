@@ -1,6 +1,6 @@
 import "../scss/app.scss";
-
 import * as R from "/node_modules/ramda";
+import {forEach} from "ramda";
 
 
 window.addEventListener("DOMContentLoaded", () => {
